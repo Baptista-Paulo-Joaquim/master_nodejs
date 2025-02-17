@@ -7,6 +7,6 @@ describe("Teste de soma", () => {
     });
 
     it("Multiplicacao de 4, 3 deve resultar em 12", () => {
-        expect(multiplicacao(2, 3)).toBe(12);
+        expect(multiplicacao(4, 3)).toBe(12);
     });
 });
